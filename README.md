@@ -1,28 +1,18 @@
-# CSS Gradient Generator
+# css-gradient-generator
 
-Create linear, radial, and conic CSS gradients visually with a live preview and one-click code copy.
+Build linear, radial, and conic gradients visually and copy the CSS.
 
 ## Features
 
 - Linear, radial, and conic gradient types
-- Unlimited color stops with drag-to-reorder
-- Angle and position controls
-- Color stop opacity
-- Preset gallery (50+ curated gradients)
-- Live CSS output with vendor prefixes
-- Copy as CSS, Tailwind class, or SVG fill
+- Add, remove, and reorder color stops
+- Drag stops on the gradient bar
+- Angle/position control
+- Live preview
+- One-click CSS copy
 
-## Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=flat&logo=vite&logoColor=white)
-
-## Run locally
+## Run
 
 ```bash
 npm install && npm run dev
 ```
-
----
-Made by [9bzero](https://github.com/9bzero)
